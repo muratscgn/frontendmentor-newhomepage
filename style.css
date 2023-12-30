@@ -137,8 +137,12 @@ aside>.item {
     border-bottom: 1px solid var(--dark-grayish-blue);
 }
 
-aside>.item>h3 {
+aside>.item>h3>a {
     color: var(--off-white);
+}
+
+aside>.item>h3>a:hover {
+    color: var(--soft-orange);
 }
 
 aside>.item>p {
@@ -176,8 +180,13 @@ footer.container>.item h3 {
     color: var(--grayish-blue);
 }
 
-footer.container>.item h4 {
+footer.container>.item>div>h4>a {
     margin: 10px 0 0;
+    color: var(--very-dark-blue);
+}
+
+footer.container>.item>div>h4>a:hover {
+    color: var(--soft-red);
 }
 
 footer.container>.item p {
