@@ -1,6 +1,6 @@
 # Frontend Mentor New Homepage
 
-CSS ile ilgili bazı konuları geliştirmek ve unutmamak için ufak bir proje yapmak istedi.
+CSS ile ilgili bazı konuları geliştirmek ve unutmamak için ufak bir proje yapmak istedim.
 
 Bu süreçte kendimi geliştirmeye devam ediyorum. Bu projede bir homepage yaptım. Her gün başka projeler ve 
 challengelar yaparak kendimi geliştirmeye devam ediyorum.
